@@ -1,2 +1,4 @@
+removed_sources:
+  libevent-0.0.5.tgz: 0817616ef02a5ab2bbc804dad121239391578956
 sources:
-  "libevent-0.0.5.tgz": 0817616ef02a5ab2bbc804dad121239391578956
+  libevent-0.1.0.tgz: 29181ecd14395a183eeb99934f79157934ee3d36

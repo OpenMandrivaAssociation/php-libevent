@@ -5,8 +5,8 @@
 
 Summary:	Libevent - event notification
 Name:		php-%{modname}
-Version:	0.0.5
-Release:	2
+Version:	0.1.0
+Release:	1
 Group:		Development/PHP
 License:	PHP License
 Url:		http://pecl.php.net/package/libevent/
