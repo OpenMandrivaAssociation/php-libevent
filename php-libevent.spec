@@ -9,7 +9,7 @@ Version:	0.1.0
 Release:	2
 Group:		Development/PHP
 License:	PHP License
-Url:		http://pecl.php.net/package/libevent/
+Url:		https://pecl.php.net/package/libevent/
 Source0:	http://pecl.php.net/get/%{modname}-%{version}.tgz
 BuildRequires:	apache-devel >= 2.2.0
 BuildRequires:	php-devel >= 3:5.2.0
